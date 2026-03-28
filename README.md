@@ -29,8 +29,6 @@ This repository demonstrates practical experience with:
 
 - `notebooks/` contains controlled experiments investigating MPC behaviour
 - `matlab/` contains seizure-related metric scripts applied to real sqEEG recordings
-- `figures/` contains example output figures
-- `docs/` contains short methodological notes
 
 ## Notes
 
